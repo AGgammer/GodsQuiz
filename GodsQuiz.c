@@ -575,7 +575,7 @@ int main(){
 			wrong++;
 		}
 			//Question 5
-		printf("Who was the nymph that bore Apollo’s son Aristaeus? \n");
+		printf("Who was the nymph that bore ApolloÂ’s son Aristaeus? \n");
 		printf("1. Marpessa \n");
 		printf("2. Hecuba \n");
 		printf("3. Daphne \n");
@@ -1035,7 +1035,7 @@ int main(){
 			wrong++;
 		}
 			//Question 3
-		printf("What was the name of Athena’s childhood companion, the daughter of Triton, whom she killed in a quarrel? \n");
+		printf("What was the name of AthenaÂ’s childhood companion, the daughter of Triton, whom she killed in a quarrel? \n");
 		printf("1. Artemis \n");
 		printf("2. Pallas \n");
 		printf("3. Persephone \n");
